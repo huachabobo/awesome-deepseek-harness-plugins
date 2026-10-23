@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "huachabobo/dsh-balance-badge",
+  "name": "dsh-balance-badge",
+  "repository": "https://github.com/huachabobo/dsh-balance-badge",
+  "category": "ui",
+  "description": {
+    "en": "Shows the DeepSeek account balance under the composer, with a balance history curve, per-session spend, and a top-up button that opens the system browser.",
+    "zh": "在输入框下方显示 DeepSeek 账号余额，可查看余额消耗曲线、本会话消耗，并通过系统浏览器充值。"
+  },
+  "added": "2026-10-23"
+}
